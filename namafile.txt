@@ -1,4 +1,4 @@
 Commit ke-3
 000
 
-Commit dari branch lain
+Buat commit untuk sengaja dibikin conflict (done)
