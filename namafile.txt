@@ -1,4 +1,4 @@
 Commit ke-3
 000
 
-Buat commit untuk sengaja dibikin conflict
+Buat commit untuk sengaja dibikin conflict (done)
